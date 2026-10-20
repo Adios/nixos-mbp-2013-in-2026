@@ -1,0 +1,12 @@
+# nix build results
+result
+result-*
+
+# secrets of the optional WARP step in scripts/install.sh (contain a private key)
+wgcf-profile.conf
+wgcf-account.toml
+
+# editors
+*.swp
+*~
+.direnv/
