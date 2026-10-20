@@ -11,7 +11,7 @@ It contains:
   it up next to macOS (`hosts/mbp/`, `scripts/install.sh`), if you would rather start from
   something that works.
 
-![A MacBook Pro 15" Retina, Early 2013, running niri on NixOS in 2026](PASTE-PHOTO-URL-HERE)
+![A MacBook Pro 15" Retina, Early 2013, running niri on NixOS in 2026](https://github.com/user-attachments/assets/4437aed0-9acf-4cd3-a4d7-cf6ff3648549)
 
 > **Read this first**
 >
